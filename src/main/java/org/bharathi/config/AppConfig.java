@@ -6,12 +6,10 @@ import org.springframework.web.client.RestTemplate;
 
 @Configuration
 public class AppConfig {
-	
+
 	@Bean
-	RestTemplate restTemplate()
-	{
-		
-		
+	RestTemplate restTemplate() {
+
 		return new RestTemplate();
 	}
 

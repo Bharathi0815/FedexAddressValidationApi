@@ -1,0 +1,25 @@
+# Compiled Java classes
+target/
+
+# Logs
+log/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Eclipse files
+*.classpath
+*.project
+*.settings/
+
+# Gradle files
+.gradle/
+build/
+
+# Maven files
+log/
+target/
+
+.DS_STORE
+.DS_Store

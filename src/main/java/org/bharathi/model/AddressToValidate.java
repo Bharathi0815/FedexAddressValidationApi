@@ -6,7 +6,7 @@ import lombok.Data;
 
 @Data
 public class AddressToValidate {
-	
+
 	private List<AddressInfo> addressesToValidate;
 
 }

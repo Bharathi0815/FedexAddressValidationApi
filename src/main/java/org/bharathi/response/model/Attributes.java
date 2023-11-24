@@ -1,4 +1,4 @@
-package org.bharathi.pojo;
+package org.bharathi.response.model;
 
 import lombok.Data;
 
@@ -29,6 +29,4 @@ public  class Attributes {
     private String AddressType;
     private String AddressPrecision;
     private boolean MultipleMatches;
-
-
 }

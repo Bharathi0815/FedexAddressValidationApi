@@ -8,4 +8,3 @@ public class AddressResponse {
 	private String customerTransactionId;
 	private Output output;
 }
-

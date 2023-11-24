@@ -1,4 +1,4 @@
-package org.bharathi.model;
+package org.bharathi.response.model;
 
 import lombok.Data;
 
@@ -22,6 +22,5 @@ public class Contact {
 		private String middleName;
 		private String lastName;
 		private String suffix;
-
 	}
 }

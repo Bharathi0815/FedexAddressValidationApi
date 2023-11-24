@@ -1,4 +1,4 @@
-package org.bharathi.model;
+package org.bharathi.response.model;
 
 import java.util.List;
 

@@ -5,8 +5,7 @@ import lombok.Data;
 @Data
 public class AddressInfo {
 	private Address address;
-    private Contact contact;
-    private String clientReferenceId;
-
+	private Contact contact;
+	private String clientReferenceId;
 
 }
